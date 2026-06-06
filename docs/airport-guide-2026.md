@@ -65,6 +65,7 @@
 
 ## 推荐资源
 
+- [Clash Verge Rev 官方下载](https://clashvergerev.site/) - Clash 客户端
 - [机场导航](https://nav.clashvip.net) - 机场汇总对比
 - [Clash 规则集](https://clashhub.net) - 分流规则
 - [讨论社区](https://bbs.clashhub.net) - 交流经验
